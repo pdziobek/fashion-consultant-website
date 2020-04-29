@@ -1,0 +1,13 @@
+# dependencies #
+
+package-lock.json
+node_modules
+
+
+# production #
+build
+
+# webstorm #
+.idea
+
+
